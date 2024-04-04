@@ -1,1 +1,1 @@
-Hola Jorge, ¿Qué tal?
+Hola[UserName], ¿Qué tal?
